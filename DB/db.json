@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "name": "Maruf Nishan",
+      "email": "maruf@gmail.com",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "name": "Murad Ahmed",
+      "email": "murad@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "Tusar Kumar Sarder",
+      "email": "tusar@gmail.com",
+      "password": "tusar1234",
+      "id": 3
+    },
+    {
+      "name": "Mobin",
+      "email": "mobin@gmail.com",
+      "password": "mobin1234",
+      "id": 4
+    },
+    {
+      "name": "Riad",
+      "email": "riad@gmail.com",
+      "password": "riad12345678",
+      "id": 5
+    },
+    {
+      "name": "User",
+      "email": "user@gmail.com",
+      "password": "12345678",
+      "id": 6
+    },
+    {
+      "name": "User2",
+      "email": "user2@gmail.com",
+      "password": "user21234",
+      "id": 7
+    },
+    {
+      "name": "User3",
+      "email": "user3@gmail.com",
+      "password": "12345678",
+      "id": 8
+    }
+  ]
+}
