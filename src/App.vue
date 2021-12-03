@@ -23,7 +23,7 @@ body{
 .logo{
     width: 200px;
 }
-.login input,.register input{
+.login input,.register input,.add input{
     width: 300px;
     height: 40px;
     padding-left: 20px;
@@ -33,7 +33,7 @@ body{
     margin-right: auto;
     border: 1px solid skyblue;
 }
-    .login button,.register button{
+    .login button,.register button,.add button{
     width: 320px;
     height: 40px;
     border: 1px solid skyblue;

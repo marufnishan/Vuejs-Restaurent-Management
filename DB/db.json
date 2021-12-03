@@ -48,5 +48,31 @@
       "password": "12345678",
       "id": 8
     }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Savar Dhaka",
+      "contact": "01718863771"
+    },
+    {
+      "id": 2,
+      "name": "AFC",
+      "address": "Ashulia Dhaka",
+      "contact": "01708582044"
+    },
+    {
+      "id": 3,
+      "name": "GFC",
+      "address": " Dhaka",
+      "contact": "01708544"
+    },
+    {
+      "name": "H20",
+      "address": "Dhanmondi",
+      "contact": "34867894567589",
+      "id": 4
+    }
   ]
 }
