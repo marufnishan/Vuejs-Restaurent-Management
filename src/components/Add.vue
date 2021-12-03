@@ -30,12 +30,14 @@ import Header from './Header.vue'
             
                 async addRestaurant(){
                     console.warn("addRestaurant",this.restaurant.name,this.restaurant.address,this.restaurant.contact)
-                    let result = await axios.post("http://localhost:3000/restaurant",{
+                    const result = await axios.post("http://localhost:3000/restaurant",{
                     name:this.restaurant.name,
                     address:this.restaurant.address,
                     contact:this.restaurant.contact
                 });
                 console.warn(result);
+                alert("Restaurant Added");
+                this.$router.push({name:'Home'});
                 }
         }
     }

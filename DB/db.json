@@ -47,6 +47,12 @@
       "email": "user3@gmail.com",
       "password": "12345678",
       "id": 8
+    },
+    {
+      "name": "Test User",
+      "email": "testuser@gmail.com",
+      "password": "12345678",
+      "id": 9
     }
   ],
   "restaurant": [
@@ -63,16 +69,10 @@
       "contact": "01708582044"
     },
     {
-      "id": 3,
-      "name": "GFC",
-      "address": " Dhaka",
-      "contact": "01708544"
-    },
-    {
       "name": "H20",
       "address": "Dhanmondi",
       "contact": "34867894567589",
-      "id": 4
+      "id": 3
     }
   ]
 }
