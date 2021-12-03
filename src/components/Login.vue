@@ -1,6 +1,6 @@
 <template>
 <img class="logo" src="../assets/nishanlogo.png" alt="My Logo">
-<h1>Login Page</h1>
+<h1>Login</h1>
 <div class="login">
     <input type="text" v-model="email" placeholder="Enter Your Email..">
     <input type="password" v-model="password" placeholder="Enter Your Password..">
